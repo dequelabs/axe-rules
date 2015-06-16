@@ -1,7 +1,8 @@
 {
   "name": "axe-rules",
   "description": "The Accessibility Rules for automated testing of HTML-based user interfaces",
-  "version": "1.0.2",
+  "version": "0.0.0",
+  "private": true,
   "authors": [
     "David Sturley <david.sturley@deque.com>"
   ],
